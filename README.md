@@ -1,0 +1,2 @@
+# Data-visualization
+Build a Django project, the project requires a login verification function, the first entry is the login page, the user enters the user name and password, submit the data with the database user_info table, if the user name or password error, then return to the login page, and prompt the user. If the username and password are correct, go to the main page of the system, which displays the chart.
